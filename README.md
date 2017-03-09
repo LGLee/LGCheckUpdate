@@ -6,7 +6,9 @@ iOS app检查更新的工具类
 3. 第三位作为修订版本号。如，上线后出现了一个bug，这个bug需要及时修复，这个时候就增加这个修订版本号。
 
 ##效果图
+###强制更新
 ![强制更新](http://img.blog.csdn.net/20170309145704124?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXBwbGVMZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast) <br/>
+###可选更新
 ![可选更新](http://img.blog.csdn.net/20170309145729827?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXBwbGVMZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
        
 ##解释一下
